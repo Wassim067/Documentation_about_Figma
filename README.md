@@ -1,3 +1,3 @@
 # Documentation_about_Figma
 
-## [Table of contents] (#table-of-contents)
+## [Table of contents]. (#table-of-contents)
