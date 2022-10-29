@@ -1,8 +1,8 @@
 # Figma_for_Beginner
 
 ## Table of contents
--[Table of contents](#table-of-contents)
--[Introduction](#1-introduction)
+- [Table of contents](#table-of-contents)
+- [Introduction](#1-introduction)
 
 
 
