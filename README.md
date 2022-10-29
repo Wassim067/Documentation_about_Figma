@@ -18,6 +18,12 @@ Start by creating an account on the Figma website. You can do this here: Figma.c
 
 ![alt text](https://user-images.githubusercontent.com/97837907/198826078-88d7de83-c248-4dcf-928f-d2bf18bbfac1.png)
 
+-> Get started 
+
+![alt text](https://user-images.githubusercontent.com/97837907/198827043-0eacf236-0d3e-4a57-80a2-16156bcd303b.png)
+
+
+
 
 
 
