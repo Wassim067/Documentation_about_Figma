@@ -14,6 +14,11 @@
 
 ## 1. Introduction
 
+Start by creating an account on the Figma website. You can do this here: Figma.com.
+
+
+
+
 ## 2. Frames in Figma
 
 ## 3. Grids and Columns
