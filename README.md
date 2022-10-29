@@ -13,4 +13,17 @@
 
 
 ## 1. Introduction
-w
+
+## 2. Frames in Figma
+
+## 3. Grids and Columns
+
+## 4. How to use shapes
+
+## 5. Colors
+
+## 6. How to add images in Figma
+
+## 7. How to add text
+
+## 8. Label elements and create groups
