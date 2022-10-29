@@ -15,6 +15,7 @@
 ## 1. Introduction
 
 Start by creating an account on the Figma website. You can do this here: Figma.com.
+![image](https://user-images.githubusercontent.com/97837907/198826078-88d7de83-c248-4dcf-928f-d2bf18bbfac1.png)
 
 
 
