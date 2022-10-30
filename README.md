@@ -16,7 +16,7 @@
 
 ## 1. Introduction
 
-Start by creating an account on the Figma website. You can do this here: Figma.com.
+Start by creating an account on the Figma website. You can do this here: Figma.com
 
 
 ![github-small](https://user-images.githubusercontent.com/97837907/198826078-88d7de83-c248-4dcf-928f-d2bf18bbfac1.png)
@@ -43,8 +43,8 @@ New designe file ->
 After creating a new draft, you will be taken to the design view. This is where you spend 99% of the time when creating a mockup.
 
 - Orange => here you can rename the file 
-- Violet => Tool menu 
-- Yellow => and here you can change the background color of your work surface, as it is more comfortable for you. (I recommend light gray)
+- Violet => tool menu 
+- Yellow => here you can change the background color of your work surface, as it is more comfortable for you. (I recommend light gray)
 
 
 
@@ -57,7 +57,7 @@ The first thing you do is create a frame, which is like a basic structure for ou
 ![image](https://user-images.githubusercontent.com/97837907/198845494-8388e835-d5dc-432a-ab9b-3a70135b92ac.png)
 
 
-- Red => Select the Frame tool from the top menu
+- Red => Select the frame tool from the top menu
 - Green => Select the Frame size on the right panel
 
 
@@ -81,13 +81,13 @@ Add grids to a frame and customize them on the right panel.
 
 ## 4. How to use shapes
 
-In Figma, use shapes and elements to create squares, circles, lines, and more. This is the essentials for creating a design on a page.
+In Figma, use shapes and elements to create squares, circles, lines and more. This is essential for creating a design on a page.
 
-In the right pannel, the shapes can be edited completely. What was previously a circle can be shaped like a C. Figma offers an infinite number of possibilities. 
+In the right pannel, the shapes can be edited completely. What was previously a circle can be shaped like a C (see picture). Figma offers an infinite number of possibilities. 
 
 - Select the shape tool from the tool menu and click on the shape you need
-- then drag the shape in the layout 
-- at the end you can edit the form as you like
+- then drag the shape into the layout 
+- at the end you can edit the form as you like.
 
 
 ![image](https://user-images.githubusercontent.com/97837907/198846907-29a088a9-2455-4114-8f89-5ba232697405.png)
@@ -95,7 +95,7 @@ In the right pannel, the shapes can be edited completely. What was previously a 
 
 ## 5. Colors
 
-Again figma gives you the opportunity to give space to your creativity.
+Figma gives you the opportunity to give space to your creativity.
 
 If you select the fill section on the right panel you can mix colors, select transparency or add borders.  
 
@@ -109,7 +109,7 @@ If you select the fill section on the right panel you can mix colors, select tra
 
 Images from an online or local source can be added to the page. Images are an important part of website design.
 
-- Drag and drop an image from you local computer
+- Drag and drop an image from your local computer
 - Import an image from the shapes image upload option
 - Resize and place the image on the design
 
@@ -121,7 +121,7 @@ Images from an online or local source can be added to the page. Images are an im
 To add text to a design, select the text tool and place it on the page. The default font is Roboto, but you can change the font family, size and color at any time.
 Use the right panel to change the color and size of the font, and later the font family as well.
 
-- Select the Text tool
+- Select the text tool
 - Add the text on the frame 
 - then you can edit your text on the right panel 
 
@@ -134,7 +134,7 @@ Working with many layers in Figma can be disorienting, so be sure to label all o
 
 - Select your element/s and right click to group or press Ctrl + G
 - Name your group
-- Places groups inside groups for each section of your page to improve readability once your page gets large
+- Place groups inside groups for each section of your page to improve readability once your page gets large
 
 
 ![image](https://user-images.githubusercontent.com/97837907/198848498-5e15d901-73db-4b34-a6aa-e62266ad0873.png)
