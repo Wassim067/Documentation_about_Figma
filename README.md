@@ -58,7 +58,7 @@ The first thing you do is create a frame, which is like a basic structure for ou
 
 
 - Red => Select the frame tool from the top menu
-- Green => Select the Frame size on the right panel
+- Green => Select the frame size on the right panel
 
 
 
